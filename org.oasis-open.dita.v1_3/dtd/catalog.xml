@@ -5,7 +5,7 @@
    <nextCatalog catalog="ditaval/catalog.xml"/>
    <nextCatalog catalog="learning/catalog.xml"/>
    <nextCatalog catalog="machineryIndustry/catalog.xml"/>
-   <nextCatalog catalog="subjectScheme/catalog.xml"/>
+   <nextCatalog catalog="subjectScheme/catalog2.xml"/>
    <nextCatalog catalog="technicalContent/catalog.xml"/>
    <nextCatalog catalog="xnal/catalog.xml"/>
 </catalog>
